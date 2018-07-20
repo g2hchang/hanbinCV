@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,83 +7,61 @@ sidebar:
     title: My Resume
     url: 'http://webjeda.com'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
-    
+
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    
+    name: Hanbin Chang
+    tagline: Recently Graduated CS student with keen interest in Front-End and UI/UX design.
+
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
-    codewars: codewars_username
+    email: hanbin.chang@mail.utoronto.ca
+    phone: 647-236-7594
+    github: g2hchang
 
     languages:
         - language:
           idiom: English
+          level: Fluent
+        - language:
+          idiom: Korean
           level: Native
-        - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
-        
+
     interests:
         - interest:
-          item: Climbing
+          item: Basketball
           link:
         - interest:
-          item: Snowboarding
-          link:
-        - interest:
-          item: Cooking
+          item: Biking
           link:
 
-career-profile: 
+career-profile:
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.<br><br>Second paragraph if required.'
+    text: 'I am a recently graduated computer science student with wide range of technical skills, focused in web development, and soft skills developed through academic and professional experience.
+          I am experienced in object­-oriented programming and in­depth knowledge of advance database system topics. I
+          have been admitted to Masters of Information with focus in User Experience Design program at University of Toronto(Undecided).'
 
-studies: 
+studies:
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
-
-    - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: BSC in Computer Science
+      university: University of Toronto
+      details: "Focused studies in Web & Internet Technologies."
 
 experiences:
     title: Experiences
-    
-    experiences:
-        - role: Lead Developer
-          time: 2015 - Present
-          company: Startup Hubs, San Francisco
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-          bullets:
-              - Bullet point #1
-              - Bullet point #2
 
-        - role: Senior Software Engineer
-          time: 2014 - 2015
-          company: Google, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-              
+    experiences:
+        - role: Undergraduate Researcher
+          time: 2017/08 - 2017/12
+          company: University of Toronto, Toronto
+          details : Working with a supervisor in Software Engineering group at University of Toronto to develop a web­based tool for modeling using jQuery, BackBone.js, and SVG.js
+          bullets:
+              - Performed User Interface analysis.
+              - Developed test cases in Mocha Framework.
+
+        - role: Software Developer
+          time: 2017/06 - 2017/09
+          company: CloudConstable Inc, Toronto
+          details : Developed and tested 3D­ animated graphical agent, voice­controlled user interface.
+
         - role: UI Developer
           time: 2012 - 2014
           company: Amazon, London
@@ -91,12 +69,12 @@ experiences:
           bullets:
               - Bullet point #1
               - Bullet point #2
-              
+
 projects:
     title: Projects
     intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
       sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
+
     projects:
       - project:
         title: Velocity
@@ -122,7 +100,7 @@ projects:
 publications:
     title: Publications
     intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
+
     publications:
       - paper:
         title: The Art of Computer Programming
@@ -159,5 +137,5 @@ skills:
           name: Sketch & Photoshop
           level: 60%
 
-footer: 
+footer:
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
