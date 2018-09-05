@@ -6,11 +6,11 @@ sidebar:
     # Site Settings
     title: My Resume
     url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
     name: Hanbin Chang
-    tagline: Recently Graduated CS student with keen interest in Front-End and UI/UX design.
+    tagline: Graduated student pursuing in Master's Degree in Information with keen interest in Front-End and UI/UX design.
 
     # Sidebar links
     email: hanbin.chang@mail.utoronto.ca
@@ -40,9 +40,9 @@ career-profile:
 
 studies:
     - education:
-      degree: BSC in Computer Science
+      degree: Master of Information
       university: University of Toronto
-      details: "Focused studies in Web & Internet Technologies."
+      details: "User Experience Design Concentration"
     - education:
       degree: BSC in Computer Science
       university: University of Toronto
