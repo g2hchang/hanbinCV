@@ -40,10 +40,6 @@ career-profile:
 
 studies:
     - education:
-      degree: Master of Information
-      university: University of Toronto
-      details: "User Experience Design Concentration"
-    - education:
       degree: BSC in Computer Science
       university: University of Toronto
       details: "Focused studies in Web & Internet Technologies."
