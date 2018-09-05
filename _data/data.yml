@@ -43,6 +43,10 @@ studies:
       degree: BSC in Computer Science
       university: University of Toronto
       details: "Focused studies in Web & Internet Technologies."
+    - education:
+      degree: BSC in Computer Science
+      university: University of Toronto
+      details: "Focused studies in Web & Internet Technologies."
 
 experiences:
     title: Experiences
@@ -61,80 +65,43 @@ experiences:
           company: CloudConstable Inc, Toronto
           details : Developed and tested 3D­ animated graphical agent, voice­controlled user interface.
 
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - role: Technical Support Engineer
+          time: 2015/01 - 2015/12
+          company: Waterloo, Canada
+          details: Working with SAP customers using SQL Anywhere and Advantage Database Server, to provide technical support for these two products.
           bullets:
-              - Bullet point #1
-              - Bullet point #2
+              - Communicated with customers on daily basis via phone or communication system.
+              - Received multiple awards by peer co-workers and customers for exceptional support quality.
+              - Wrote a GUI query performance analyzer for SQL Anywhere in C# for support engineers.
+              - Built a desktop applications to quickly search for links to Knowledge Based Article using .NET
+              - Worked on co-op side project using SAPUI5, Javascript framework written by SAP, to build a tool that help support engineers’ to keep track of Knowledge Based Article creation.
 
-projects:
-    title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-    projects:
-      - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
+          name: Python
           level: 98%
         - skill:
           name: Javascript & jQuery
           level: 98%
         - skill:
-          name: Angular
+          name: Angular & React & Vue.js
           level: 98%
         - skill:
-          name: HTML5 & CSS
+          name: HTML/HTML5 & CSS
+          level: 98%
+        - skill:
+          name: Java
+          level: 97%
+        - skill:
+          name: SQL
+          level: 96%
+        - skill:
+          name: C/C++
           level: 95%
-        - skill:
-          name: Ruby on Rails
-          level: 85%
-        - skill:
-          name: Sketch & Photoshop
-          level: 60%
+       
 
 footer:
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
