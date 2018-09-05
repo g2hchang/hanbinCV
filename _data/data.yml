@@ -36,10 +36,13 @@ sidebar:
 career-profile:
     title: Career Profile
     text: 'I am a recently graduated computer science student with wide range of technical skills, focused in web development, and soft skills developed through academic and professional experience.
-          I am experienced in object­-oriented programming and in­depth knowledge of advance database system topics. I
-          have been admitted to Masters of Information with focus in User Experience Design program at University of Toronto(Undecided).'
+          I am experienced in object­-oriented programming and in­depth knowledge of advance database system topics.'
 
 studies:
+    - education:
+      degree: Master of Information
+      university: University of Toronto
+      details: "User Experience Design Concentration"
     - education:
       degree: BSC in Computer Science
       university: University of Toronto
